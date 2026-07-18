@@ -83,7 +83,7 @@ Contributions are welcome! Please feel free to:
 
 ## 📄 License
 
-MIT License - See LICENSE file for details *(Insert your chosen license here)*
+GPLv3
 
 ---
 
